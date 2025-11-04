@@ -48,21 +48,13 @@ Description : Créez plusieurs « tirelires » virtuelles pour vos objectifs (va
 
 ---
 
-### 3) Gestion des transactions
+### 3) Liste des transactions
 
-![Transactions Dépenses](./assets/transac_depense.png)
+![Liste des Transactions](./assets/liste_transactions.png)
 
-Nom : Transactions - Dépenses
+Nom : Liste des Transactions
 
-Description : Ajoutez et suivez vos dépenses avec une interface intuitive. Catégorisez vos sorties d'argent, ajoutez des descriptions et suivez l'évolution de vos dépenses.
-
----
-
-![Transactions Revenus](./assets/transac_revenu.png)
-
-Nom : Transactions - Revenus
-
-Description : Enregistrez vos revenus de différentes sources. Visualisez vos entrées d'argent et comprenez vos flux de trésorerie positifs.
+Description : Consultez toutes vos transactions (revenus et dépenses) dans un tableau clair et organisé. Modifiez ou supprimez vos entrées, et visualisez en temps réel vos totaux de revenus, dépenses et solde net.
 
 ---
 
