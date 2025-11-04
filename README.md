@@ -38,13 +38,13 @@ Description : Un tableau de bord synthétique qui affiche vos soldes, tendances 
 
 ---
 
-### 2) Visualisations interactives
+### 2) Piggy Banks (Tirelires)
 
 ![Feature 2](./assets/feature2.png)
 
-Nom : Graphiques interactifs
+Nom : Piggy Banks
 
-Description : Graphiques dynamiques (courbes, camemberts, heatmaps) qui permettent de filtrer par période, catégorie et source pour mieux comprendre vos flux financiers.
+Description : Créez plusieurs « tirelires » virtuelles pour vos objectifs (vacances, imprévus, cadeaux). Affectez des montants récurrents ou ponctuels, définissez des priorités et suivez la progression. Les piggy banks peuvent être automatisés (règles d'arrondi, transferts programmés) pour vous aider à atteindre vos objectifs d'épargne.
 
 ---
 
