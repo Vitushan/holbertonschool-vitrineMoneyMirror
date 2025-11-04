@@ -4,7 +4,7 @@
 
 # Vitrine Money Mirror
 
-![Cover image](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/cover.png)
+![Cover image](./assets/cover.png)
 
 > Un miroir clair de vos finances — visualisez, comprenez et décidez.
 
@@ -30,7 +30,7 @@ Sur cette page d'accueil vous trouverez :
 
 ### 1) Tableau de bord clair
 
-![Feature 1](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/feature1.png)
+![Feature 1](./assets/feature1.png)
 
 Nom : Tableau de bord central
 
@@ -40,7 +40,7 @@ Description : Un tableau de bord synthétique qui affiche vos soldes, tendances 
 
 ### 2) Visualisations graphiques
 
-![Graphique en ligne](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/ligne.png)
+![Graphique en ligne](./assets/ligne.png)
 
 Nom : Évolution dans le temps
 
@@ -48,7 +48,7 @@ Description : Suivez l'évolution de vos finances avec un graphique en ligne int
 
 ---
 
-![Graphique en barres](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/courbe_graphique.png)
+![Graphique en barres](./assets/courbe_graphique.png)
 
 Nom : Revenus vs Dépenses
 
@@ -56,7 +56,7 @@ Description : Comparez vos revenus et dépenses période par période avec un gr
 
 ---
 
-![Diagramme en camembert](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/cammembert.png)
+![Diagramme en camembert](./assets/cammembert.png)
 
 Nom : Répartition par catégorie
 
@@ -66,7 +66,7 @@ Description : Visualisez la répartition de vos dépenses par catégorie avec un
 
 ### 3) Piggy Banks (Tirelires)
 
-![Feature 2](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/feature2.png)
+![Feature 2](./assets/feature2.png)
 
 Nom : Piggy Banks
 
@@ -76,7 +76,7 @@ Description : Créez plusieurs « tirelires » virtuelles pour vos objectifs (va
 
 ### 4) Liste des transactions
 
-![Liste des Transactions](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/liste_transactions.png)
+![Liste des Transactions](./assets/liste_transactions.png)
 
 Nom : Liste des Transactions
 
@@ -86,7 +86,7 @@ Description : Consultez toutes vos transactions (revenus et dépenses) dans un t
 
 ### 5) Message de prudence
 
-![Message de Prudence](https://raw.githubusercontent.com/Vitushan/holbertonschool--vitrineMoneyMirror/main/assets/messagePrudence.png)
+![Message de Prudence](./assets/messagePrudence.png)
 
 Nom : Alertes intelligentes
 
