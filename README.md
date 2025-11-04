@@ -27,8 +27,6 @@ Sur cette page d'accueil vous trouverez :
 
 ## Fonctionnalites
 
-> Ici la landing met en valeur 3 fonctionnalités clés. Remplacez les images par de vrais captures/gifs.
-
 ### 1) Connexion sécurisée
 
 ![Connexion](./assets/connexion.png)
@@ -157,3 +155,4 @@ Bouton :
 [Voir l'application déployée](https://holbertonschool-money-mirror.vercel.app)
 
 ---
+
