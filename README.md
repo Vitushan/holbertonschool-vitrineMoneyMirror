@@ -14,6 +14,7 @@
 - 🔗 [Fonctionnalités](#fonctionnalites)
 - 🔗 [À propos](#a-propos)
 - 🔗 [Voir l'application déployée](#deploiement)
+- 🌐 [Voir le site vitrine](https://vitushan.github.io/holbertonschool-vitrineMoneyMirror/)
 
 ---
 
