@@ -668,7 +668,11 @@ a {
 }
 
 .footer-brand .money-text {
-    color: var(--dark);
+    color: #1a1a1a;
+}
+
+.footer-brand .mirror-text {
+    color: var(--primary-color);
 }
 
 .footer p {
