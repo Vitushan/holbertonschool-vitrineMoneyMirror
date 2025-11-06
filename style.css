@@ -69,6 +69,23 @@ a {
     font-size: 1.8rem;
 }
 
+.brand-logo {
+    width: 32px;
+    height: 32px;
+}
+
+.dollar-icon {
+    color: var(--primary-color);
+}
+
+.money-text {
+    color: #1a1a1a;
+}
+
+.mirror-text {
+    color: var(--primary-color);
+}
+
 .nav-links {
     display: flex;
     list-style: none;
@@ -338,6 +355,10 @@ a {
     margin-bottom: 1.5rem;
 }
 
+.piggy-icon {
+    font-size: 2.5rem;
+}
+
 .feature-card h3 {
     font-size: 1.5rem;
     margin-bottom: 1rem;
@@ -375,6 +396,25 @@ a {
     font-weight: 600;
     color: var(--gray);
     font-size: 1.1rem;
+}
+
+.feature-screenshot,
+.app-screenshot {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature-screenshot:hover,
+.app-screenshot:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
+.app-screenshot {
+    max-width: 600px;
 }
 
 /* Tech Stack Section */
@@ -627,8 +667,29 @@ a {
     font-size: 1.8rem;
 }
 
+.footer-brand .money-text {
+    color: white;
+}
+
 .footer p {
     color: var(--gray);
+}
+
+.footer-tagline {
+    font-size: 1.1rem;
+    margin: 1rem 0;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.footer-copyright {
+    font-size: 0.9rem;
+    margin: 0.5rem 0;
+}
+
+.footer-author {
+    font-size: 0.9rem;
+    margin: 0.5rem 0 1rem 0;
+    font-style: italic;
 }
 
 .footer-links {
