@@ -36,15 +36,6 @@ a {
     color: inherit;
 }
 
-/* Brand styling */
-.brand-money {
-    color: var(--darker);
-}
-
-.brand-mirror {
-    color: var(--primary-color);
-}
-
 /* Navigation */
 .navbar {
     position: fixed;
@@ -71,11 +62,7 @@ a {
     gap: 10px;
     font-size: 1.5rem;
     font-weight: 700;
-}
-
-.nav-logo {
-    width: 40px;
-    height: 40px;
+    color: var(--primary-color);
 }
 
 .nav-brand i {
@@ -235,40 +222,16 @@ a {
 .hero-mockup {
     width: 400px;
     height: 400px;
-    background: linear-gradient(135deg, #f0fdf4 0%, #ecfeff 100%);
+    background: white;
     border-radius: 30px;
     box-shadow: 0 20px 60px var(--shadow-lg);
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 8rem;
+    color: var(--primary-color);
     position: relative;
     animation: float 3s ease-in-out infinite;
-    overflow: hidden;
-    padding: 3rem;
-}
-
-.hero-logo {
-    width: 280px;
-    height: 280px;
-    filter: drop-shadow(0 10px 30px rgba(16, 185, 129, 0.3));
-}
-
-.app-screenshot {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    border-radius: 20px;
-    background: white;
-}
-
-.fallback-icon {
-    display: none;
-}
-
-/* Show fallback icon if image fails to load */
-.hero-mockup:has(.app-screenshot[src=""]) .fallback-icon,
-.hero-mockup:has(.app-screenshot:not([src])) .fallback-icon {
-    display: block;
 }
 
 @keyframes float {
@@ -389,24 +352,8 @@ a {
 
 .feature-image {
     margin-top: 1.5rem;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 4px 15px var(--shadow);
 }
 
-.feature-screenshot {
-    width: 100%;
-    height: auto;
-    display: block;
-    border-radius: 12px;
-    transition: transform 0.3s ease;
-}
-
-.feature-screenshot:hover {
-    transform: scale(1.05);
-}
-
-/* Placeholder styles (if images don't load) */
 .placeholder-image {
     background: linear-gradient(135deg, #f0fdf4 0%, #ecfeff 100%);
     border-radius: 12px;
@@ -672,49 +619,16 @@ a {
     gap: 10px;
     font-size: 1.5rem;
     font-weight: 700;
+    color: var(--primary-color);
     margin-bottom: 0.5rem;
-}
-
-.footer-logo {
-    width: 45px;
-    height: 45px;
 }
 
 .footer-brand i {
     font-size: 1.8rem;
-    color: var(--primary-color);
 }
 
-.brand-text {
-    display: flex;
-}
-
-/* Footer brand colors - Money in white for visibility on dark background */
-.footer-brand .brand-money {
-    color: white;
-}
-
-.footer-brand .brand-mirror {
-    color: var(--primary-color);
-}
-
-.footer-tagline {
+.footer p {
     color: var(--gray);
-    font-size: 1rem;
-    margin: 0.5rem 0;
-}
-
-.footer-copyright {
-    color: white;
-    font-weight: 500;
-    margin: 0.5rem 0;
-}
-
-.footer-school {
-    color: var(--gray);
-    font-size: 0.9rem;
-    margin: 0.5rem 0;
-    font-style: italic;
 }
 
 .footer-links {
@@ -758,12 +672,7 @@ a {
     .hero-mockup {
         width: 300px;
         height: 300px;
-        padding: 2rem;
-    }
-
-    .hero-logo {
-        width: 200px;
-        height: 200px;
+        font-size: 6rem;
     }
 
     .nav-links {

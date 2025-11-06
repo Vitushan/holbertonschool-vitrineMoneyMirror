@@ -86,7 +86,7 @@ document.querySelectorAll('.project-link').forEach(link => {
     link.addEventListener('mouseenter', function() {
         this.style.backgroundColor = '#f0fdf4';
     });
-    
+
     link.addEventListener('mouseleave', function() {
         this.style.backgroundColor = 'white';
     });
